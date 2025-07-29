@@ -1,5 +1,3 @@
-# DENSITY-BASED-CLUSTERING-A-SET-OF-BIO-SEQUENCES-FROM-SARS-COV-2-VIRUSES-WITH-LEVENSHTEIN-DISTANCE
-
 This project aims to cluster a set of bio-sequences from SARS-CoV-2 viruses using density-based
 clustering with the Levenshtein distance metric. The Levenshtein distance is a method for
 comparing two strings and can be used to classify biological sequences. A method known as
