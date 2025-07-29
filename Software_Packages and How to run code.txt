@@ -1,0 +1,22 @@
+Software:
+
+Visual Studio Code
+Python 3.11
+
+Packages:
+
+import pandas 				: to convert the csv file to dataframe 
+import numpy  				: to calculate the Levenshtein distance matrix
+from sklearn.cluster import DBSCAN	: to implement the DBSCAN algorithm
+from sklearn.metrics import silhouette_score : for the purpose of validation
+from Levenshtein import distance 	: to calculate the levenshtein distance between the two dna's
+import matplotlib.pyplot		: to visualize the clusters and outliers	
+from collections import defaultdict	: to store the clusters and their ids as dictionary
+
+
+
+How to run the code:
+
+1. Install any Python IDE (I have used Visual Studio Code)
+2. Import all the required packages mentioned above
+3. run the code through the terminal or use command - python3 file_name.py
